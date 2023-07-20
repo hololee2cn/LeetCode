@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc9dd7d3-4a9f-423c-8a44-5cf7386a5a24" name="Default Changelist" comment="" />
+    <list default="true" id="fc9dd7d3-4a9f-423c-8a44-5cf7386a5a24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/日常题库/统计字典序元音字符串的数目.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
